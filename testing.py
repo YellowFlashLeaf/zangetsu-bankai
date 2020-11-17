@@ -1,10 +1,8 @@
+def  hello_func():
+    print('Hello Function! wowowowowo')    
 
-print("Yo")
-var = 5 + 10
-
-
-
-
+hello_func()
+hello_func()
 
 
 
