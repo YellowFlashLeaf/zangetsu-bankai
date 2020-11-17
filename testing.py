@@ -1,9 +1,6 @@
-def  hello_func():
-    print('Hello Function! wowowowowo')    
+def hello_func():
+    return 'Hello Function'
 
-hello_func()
-hello_func()
-
-
+print(hello_func().upper())
 
 
