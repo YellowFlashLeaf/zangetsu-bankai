@@ -1,6 +1,7 @@
 import pandas as pd
-print(5+7)
-print(6+4)
+from openpyxl.workbook import Workbook
+
+df_excel = pd.read_excel('regions.xlsx')
 
 
 
